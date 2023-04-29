@@ -3,7 +3,7 @@
 }
 
 body {
-	background-image: url('/assets/images/steamcommunity.gif');
+	background-image: url('steamcommunity.gif');
 	background-size: cover;
 	font-family: Arial, sans-serif;
 	margin: 0;
